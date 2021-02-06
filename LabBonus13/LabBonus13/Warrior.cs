@@ -20,5 +20,6 @@ namespace LabBonus13
             Console.WriteLine($"Their Intelligence is: {Intelligence}");
             Console.WriteLine($"Their Weapon Type is: {WeaponType}");
         }
+
     }
 }

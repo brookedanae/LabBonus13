@@ -22,6 +22,8 @@ namespace LabBonus13
             Console.WriteLine($"Their Magical Energy is: {MagicalEnergy}");
 
         }
+
+
     }
 }
 
